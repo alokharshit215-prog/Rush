@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash",
+  "description": "3D endless railway runner across dynamically shifting worlds with characters, hoverboards, power-ups, missions, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
